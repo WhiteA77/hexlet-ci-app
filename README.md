@@ -2,6 +2,10 @@
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
+## Status badge Github Actions
+
+[![CI Pipeline](https://github.com/WhiteA77/hexlet-ci-app/actions/workflows/ci.yml/badge.svg)](https://github.com/WhiteA77/hexlet-ci-app/actions/workflows/ci.yml)
+
 ## System requirements
 
 * NodeJS >= 18
